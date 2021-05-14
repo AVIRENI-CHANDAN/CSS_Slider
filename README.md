@@ -6,7 +6,5 @@ as circle in-out for sliding.
 
 The animation in the template here is circle in-out for changing the slides,
 using
-    
-    clip-path: circle(0px at bottom);
-
+<pre><code>clip-path: circle(0px at bottom);</code></pre>
 for slide change animation.
