@@ -12,7 +12,7 @@ for slide change animation.
 ## Outputs:
 <div style="display:flex;">
   
-<img src="https://user-images.githubusercontent.com/58340159/118222140-a91bc780-b49c-11eb-9ec2-1657d00cf4aa.png" width="60%" height="auto" alt="Output1ImageError">
-<img src="https://user-images.githubusercontent.com/58340159/118222142-a9b45e00-b49c-11eb-869f-971dd0266de8.png" width="30%" height="auto" alt="Output2ImageError">
+<img src="https://user-images.githubusercontent.com/58340159/118222140-a91bc780-b49c-11eb-9ec2-1657d00cf4aa.png" width="62%" height="auto" alt="Output1ImageError">
+<img src="https://user-images.githubusercontent.com/58340159/118222142-a9b45e00-b49c-11eb-869f-971dd0266de8.png" width="34%" height="auto" alt="Output2ImageError">
 
 </div>
